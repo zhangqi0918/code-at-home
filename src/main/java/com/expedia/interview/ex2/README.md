@@ -23,7 +23,7 @@ If the list contains a cycle, your function must return `true`. If the list does
 
 ### Inputs
 
-![Linked Lists](img/linkedLists.png)
+![Linked Lists](https://raw.githubusercontent.com/FabienLauf/code-at-home/master/img/linkedLists.png)
 
 ### Outputs
 
