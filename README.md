@@ -6,8 +6,8 @@ You will find the instructions in the README files in each folder inside [src/ma
 
 ## Contribution steps:
 
- 1. Clone this repository and add your code to the corresponding Java files in the `src` folder.
- 2. When done, create a PR from a branch with your name.
+ 1. **Fork** this repository and add your code to the corresponding Java files in the `src` folder.
+ 2. When done, send us the URL of your Fork.
  
 ## Requirements:
 
